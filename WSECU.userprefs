@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2ABCCB70-6882-42A3-B62A-1CD0B86B26B4}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WSECU/AppInitializer.cs">
+    <Files>
+      <File FileName="WSECU/Tests.cs" Line="29" Column="26" />
+      <File FileName="WSECU/AppInitializer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WSECU PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
