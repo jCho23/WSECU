@@ -51,9 +51,7 @@ namespace WSECU
 			app.Tap("password_edit");
 			app.EnterText("CaroleWashburn");
 			app.DismissKeyboard();
-
-
-
+			app.Tap("signin_button");
 		}
 
 	}
