@@ -31,6 +31,11 @@ namespace WSECU
 			app.Repl();
 		}
 
+		[Test]
+		public void IDNoPassword()
+		{
+			
+		}
 
 	}
 }
