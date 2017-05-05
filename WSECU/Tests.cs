@@ -49,6 +49,7 @@ namespace WSECU
 		public void PasswordNoID()
 		{
 			app.Tap("password_edit");
+			app.Screenshot("We Tappedon the 'Password' Text Edit Field");
 			app.EnterText("CaroleWashburn");
 			app.DismissKeyboard();
 			app.Tap("signin_button");
