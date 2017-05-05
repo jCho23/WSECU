@@ -40,7 +40,9 @@ namespace WSECU
 			app.EnterText("CaroleWashburn@wsecu.com");
 			app.Screenshot("Then we entered our email, 'CaroleWashburn@wsecu.com'");
 			app.DismissKeyboard();
+			app.Screenshot("Dismissed Keyboard");
 			app.Tap("signin_button");
+
 		}
 
 	}
