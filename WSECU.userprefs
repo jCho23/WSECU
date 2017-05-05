@@ -1,9 +1,24 @@
 ﻿<Properties StartupConfiguration="{2ABCCB70-6882-42A3-B62A-1CD0B86B26B4}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WSECU/AppInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WSECU/Tests.cs">
     <Files>
-      <File FileName="WSECU/Tests.cs" Line="29" Column="26" />
-      <File FileName="WSECU/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="WSECU/Tests.cs" Line="27" Column="4" />
+      <File FileName="WSECU/AppInitializer.cs" Line="30" Column="53" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WSECU" expanded="True">
+            <Node name="WSECU" expanded="True">
+              <Node name="WSECU" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
