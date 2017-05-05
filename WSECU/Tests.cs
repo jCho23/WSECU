@@ -53,6 +53,7 @@ namespace WSECU
 			app.EnterText("CaroleWashburn");
 			app.Screenshot("Next we entered our password, 'CaroleWashburn'");
 			app.DismissKeyboard();
+			app.Screenshot("Dismissed Keyboard");
 			app.Tap("signin_button");
 		}
 
