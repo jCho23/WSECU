@@ -34,7 +34,8 @@ namespace WSECU
 		[Test]
 		public void IDNoPassword()
 		{
-			
+			app.Tap("loginEdit");
+
 		}
 
 	}
