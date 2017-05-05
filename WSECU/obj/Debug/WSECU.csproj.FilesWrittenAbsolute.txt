@@ -1,7 +1,0 @@
-/Users/junecho/Projects/WSECU/WSECU/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/junecho/Projects/WSECU/WSECU/bin/Debug/WSECU.dll.mdb
-/Users/junecho/Projects/WSECU/WSECU/bin/Debug/WSECU.dll
-/Users/junecho/Projects/WSECU/WSECU/obj/Debug/WSECU.dll
-/Users/junecho/Projects/WSECU/WSECU/obj/Debug/WSECU.dll.mdb
-/Users/junecho/Projects/WSECU/WSECU/bin/Debug/nunit.framework.dll
-/Users/junecho/Projects/WSECU/WSECU/bin/Debug/Xamarin.UITest.dll

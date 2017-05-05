@@ -27,7 +27,7 @@ namespace WSECU
 		}
 
 		[Test]
-		public void AppLaunches()
+		public void Repl()
 		{
 			app.Repl();
 		}
@@ -55,6 +55,7 @@ namespace WSECU
 			app.DismissKeyboard();
 			app.Screenshot("Dismissed Keyboard");
 			app.Tap("signin_button");
+			app.Screenshot("Then we Tapped the 'Sign In' Button");
 		}
 
 	}
