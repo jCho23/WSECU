@@ -48,7 +48,8 @@ namespace WSECU
 		[Test]
 		public void PasswordNoID()
 		{
-			
+			app.Tap("loginEdit");
+
 		}
 
 	}
