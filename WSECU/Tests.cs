@@ -50,6 +50,8 @@ namespace WSECU
 		{
 			app.Tap("password_edit");
 			app.EnterText("CaroleWashburn");
+			app.DismissKeyboard();
+
 
 
 		}
