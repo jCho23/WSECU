@@ -35,7 +35,8 @@ namespace WSECU
 		public void IDNoPassword()
 		{
 			app.Tap("loginEdit");
-
+			app.EnterText("CaroleWashburn@wsecu.com");
+			app.DismissKeyboard();
 		}
 
 	}
