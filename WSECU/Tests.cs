@@ -37,6 +37,7 @@ namespace WSECU
 			app.Tap("loginEdit");
 			app.EnterText("CaroleWashburn@wsecu.com");
 			app.DismissKeyboard();
+			app.Tap("signin_button");
 		}
 
 	}
